@@ -1,0 +1,89 @@
+{
+  "title": "Mostafa Kaardaan ReactJS Page",
+  "subtitle": "Software Engineer | Developer",
+  "links": {
+    "github":"https://github.com/mostafakaardaan",
+    "devto":"https://dev.to/mostafakaardaan",
+    "instagram": "https://www.instagram.com/mostafa.kaardaan/",
+    "stackoverflow":"https://stackoverflow.com/story/mostafakaardaan",
+    "linkedin": "https://www.linkedin.com/in/mostafa-kaardaan-ba2468183/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I’m an IT expert with 8 years of experience working on all aspects of the IT function — from support affairs to programming — for an organization.  "
+        },
+        {
+          "type": "p",
+          "content": "I've finished my master degree in software engineering and now i'm Ph.D candidate for software engineering."
+        },
+        {
+          "type": "p",
+          "content": "The reason why i've developed this page is that i'm learning ReactJS These days and i want to improve my skill over it..."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/csharp.png",
+            "title": "C#"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/js.png",
+            "title": "Java Script"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html5.png",
+            "title": "HTML 5"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/jquery.png",
+            "title": "JQuery"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/visualstudio.png",
+            "title": "Visual Studio"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "CSS"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down":"images/down.png",
+    "up":"images/up.png",
+    "color":"images/color.png"
+  }
+}

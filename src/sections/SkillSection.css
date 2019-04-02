@@ -1,0 +1,13 @@
+/* .third{
+    background-color:white;
+    
+  } */
+  
+  .cards-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  

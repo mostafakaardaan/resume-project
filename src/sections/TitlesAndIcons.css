@@ -1,0 +1,26 @@
+/* .first{
+    background-color: #004080; 
+    color: white;
+    
+  } */
+  .icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon {
+    margin: 10px;
+  }
+
+  h1 {
+    font-size: 3rem;
+    font-weight: bolder
+  }
+  h2 {
+    
+    font-size: 1.8rem;
+    font-style: italic
+  }
+  
